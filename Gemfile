@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 gemspec
 
 group :assets do
-  gem "compass", '~> 0.13.alpha.0'
+  gem "compass", '1.1.0.alpha.3'
   gem "compass-rails", :path=>"."
   gem 'compass-blueprint'
 end
